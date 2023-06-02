@@ -6,7 +6,7 @@ dependencies:
     version: 3.0.1
 
 devDependencies:
-  '@beyonk/eslint-config':
+  '@trulycool/eslint-config':
     specifier: ^7.1.1
     version: 7.1.1(eslint@8.28.0)
   '@hapi/code':
@@ -51,7 +51,7 @@ devDependencies:
 
 packages:
 
-  /@beyonk/eslint-config@7.1.1(eslint@8.28.0):
+  /@trulycool/eslint-config@7.1.1(eslint@8.28.0):
     resolution: {integrity: sha512-wzCLuQnVjnsk/ogJ2KfmMUbQNg5Q9RMOQBWeAcO+gqCNXmMr4SBon9306UB5HrDYzffRgnHrEl8YkqKBDzPIYQ==}
     peerDependencies:
       eslint: '>= 8.0'

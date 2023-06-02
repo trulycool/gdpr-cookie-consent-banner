@@ -1,3 +1,3 @@
 module.exports = {
-  extends: '@beyonk/eslint-config/svelte'
+  extends: '@trulycool/eslint-config/svelte'
 }

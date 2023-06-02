@@ -1,5 +1,5 @@
 {
-  "name": "@beyonk/gdpr-cookie-consent-banner",
+  "name": "@trulycool/gdpr-cookie-consent-banner",
   "version": "10.0.0",
   "description": "GDPR Cookie Consent Banner for Svelte/Kit",
   "author": "Antony Jones",
@@ -34,7 +34,7 @@
     "js-cookie": "^3.0.1"
   },
   "devDependencies": {
-    "@beyonk/eslint-config": "^7.1.1",
+    "@trulycool/eslint-config": "^7.1.1",
     "@hapi/code": "^8.0.2",
     "@sveltejs/adapter-auto": "^2.0.0",
     "@sveltejs/kit": "^1.5.0",
@@ -62,6 +62,6 @@
     "cookie",
     "svelte",
     "vanilla",
-    "beyonk"
+    "trulycool"
   ]
 }
