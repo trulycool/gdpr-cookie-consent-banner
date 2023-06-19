@@ -1,7 +1,8 @@
 .DS_Store
 node_modules
 /build
-/dist
+# MLX commenting /dist as I install from github fork & need it
+#/dist
 /.svelte-kit
 /package
 .env
